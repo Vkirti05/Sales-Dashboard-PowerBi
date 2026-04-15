@@ -2,7 +2,7 @@
 
 🚀 Overview
 
-	This project is an interactive Sales Performance Dashboard built using Power BI to analyze business sales data and generate actionable insights.
+This project is an interactive Sales Performance Dashboard built using Power BI to analyze business sales data and generate actionable insights.
 
 
 📌 Objectives
