@@ -5,15 +5,15 @@ This project is an interactive Sales Performance Dashboard built using Power BI 
 
 
 📌 Objectives
-Analyze overall sales performance
+	Analyze overall sales performance
 
-Track key business metrics (Revenue, Profit, Profit Margin)
+	Track key business metrics (Revenue, Profit, Profit Margin)
 
-Identify top-performing products
+	Identify top-performing products
 
-Understand regional sales distribution
+	Understand regional sales distribution
 
-Monitor monthly trends
+	Monitor monthly trends
 
 📊 Key Features
 ✅ KPI Cards (Total Revenue, Total Profit, Profit Margin)
