@@ -22,7 +22,6 @@ This project is an interactive Sales Performance Dashboard built using Power BI 
 🌍 Revenue Distribution by Region
 🔄 Revenue vs Profit Comparison
 🎯 Interactive Filters (Region & Product)
-📊 Key Insight
 
 👉 Revenue dropped in February but showed a strong recovery in March, indicating possible seasonal or operational factors.
 
