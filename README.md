@@ -64,7 +64,6 @@ This project is an interactive Sales Performance Dashboard built using Power BI 
 	Connect with SQL database
 
 	Implement forecasting models
-	
 
 	Add drill-through and tooltip pages
 🙌 Conclusion
